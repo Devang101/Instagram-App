@@ -4,4 +4,6 @@ The purpose of this project is to create a ruby on rails application similar to 
 
 <p align="center">
   <img src=./NavBar.png/>
+  <br>
+  The code impliments a navigation bar which allows users to create posts, login, logout, register, and view posts at any given point in time.
 </p>
